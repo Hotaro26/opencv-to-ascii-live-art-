@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/ac9df1fc-655c-43ae-ab59-72a28a46d414
 # ASCII Camera live art
 
 Convert live camera feed into real-time ASCII art.
