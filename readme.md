@@ -1,4 +1,6 @@
-# ASCII Camera
+
+https://github.com/user-attachments/assets/ac9df1fc-655c-43ae-ab59-72a28a46d414
+# ASCII Camera live art
 
 Convert live camera feed into real-time ASCII art.
 
@@ -57,6 +59,10 @@ Once the script is running:
 - **Garbled display**: Try resizing your terminal window
 - **Slow performance**: Reduce terminal width or use a lower resolution camera
 
+
+
+
+
 ## Example Output
 
 ```
@@ -65,3 +71,11 @@ Once the script is running:
 ####SS%%%??****++;;::::,,,,,,,
 SS%%%??****+++++;;::::,,,,,,,,
 ```
+
+https://github.com/user-attachments/assets/23009c23-da90-45fd-aceb-171193f16fc5
+
+
+---
+
+
+
