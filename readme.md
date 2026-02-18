@@ -64,17 +64,8 @@ Once the script is running:
 
 ## Example Output
 
-```
-@@@@@@@@####SSSS%%%??**++;;::,,
-@@@@####SS%%%??**++;;:::::,,,,,
-####SS%%%??****++;;::::,,,,,,,
-SS%%%??****+++++;;::::,,,,,,,,
-```
+ https://github.com/user-attachments/assets/bcbdad51-c9be-4904-a91a-ba260d2c9c20
 
-https://github.com/user-attachments/assets/23009c23-da90-45fd-aceb-171193f16fc5
-
-
----
 
 
 
